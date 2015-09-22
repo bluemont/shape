@@ -137,7 +137,7 @@ page.
   * matches any value
   * does not bind anything
 
-#### '(:s/maybe 42)
+#### `'(:s/maybe 42)`
 
   * matches 42 or nil
   * does not bind anything
