@@ -1,5 +1,8 @@
 # Shape
 
+**Note**: I'm currently drafting and iterating on this README before starting
+on implementation. THERE IS NO CODE YET! :)
+
 Shape is a Clojure library to parse a data structure in relation to an
 arbitrarily complex shape specification.
 
